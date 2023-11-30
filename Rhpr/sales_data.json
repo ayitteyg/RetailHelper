@@ -1,0 +1,98 @@
+[
+    {
+        "date": "2023-11-20",
+        "receipt#": 1000,
+        "total": 60.0,
+        "cashier": "user1",
+        "items": [
+            [
+                1,
+                "Concrete Nails 3 inches",
+                2,
+                30.0,
+                60.0
+            ]
+        ]
+    },
+    {
+        "date": "2023-11-20",
+        "receipt#": 1001,
+        "total": 100.0,
+        "cashier": "user1",
+        "items": [
+            [
+                1,
+                "Felt Nails",
+                4,
+                25.0,
+                100.0
+            ]
+        ]
+    },
+    {
+        "date": "2023-11-20",
+        "receipt#": 1002,
+        "total": 15.0,
+        "cashier": "user1",
+        "items": [
+            [
+                1,
+                "TROPICAL SUN COATED165",
+                1,
+                15.0,
+                15.0
+            ]
+        ]
+    },
+    {
+        "date": "2023-11-20",
+        "receipt#": 1003,
+        "total": 94.5,
+        "cashier": "user1",
+        "items": [
+            [
+                1,
+                "ROTHMANS",
+                5,
+                18.9,
+                94.5
+            ]
+        ]
+    },
+    {
+        "date": "2023-11-24",
+        "receipt#": 1004,
+        "total": 224.0,
+        "cashier": "kwadwo",
+        "items": [
+            [
+                1,
+                "MC VITIES SHORTBREAD 100G",
+                2,
+                26.0,
+                52.0
+            ],
+            [
+                2,
+                "FLORIDA GUM CONTAINER",
+                2,
+                11.0,
+                22.0
+            ],
+            [
+                3,
+                "GOLDEN TREE CHOCO DELIGHT",
+                2,
+                45.0,
+                90.0
+            ],
+            [
+                4,
+                "DELICE MILKY CHIPS 140G",
+                4,
+                15.0,
+                60.0
+            ]
+        ]
+    }
+]

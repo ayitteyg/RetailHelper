@@ -1,0 +1,24 @@
+				CASH RECEIPT
+*****************************************************************
+		Simple Business Apps Solutions
+		Ofankor-Barrier
+		+233
+*****************************************************************
+Date: Friday, November 24
+Sales Person: kwadwo
+Receipt# : 1004
+-----------------------------------------------------------------
+No.	item                               	qty	Ghc:
+1	MC VITIES SHORTBREAD 100G          	2	52.0
+2	FLORIDA GUM CONTAINER              	2	22.0
+3	GOLDEN TREE CHOCO DELIGHT          	2	90.0
+4	DELICE MILKY CHIPS 140G            	4	60.0
+
+-----------------------------------------------------------------
+					subtotal:	224.00
+					tax(17.5%):	39.20
+					total:		263.20
+					paid:		265.00
+					change:		41.00
+-----------------------------------------------------------------
+			*THANK YOU!* PLEASE DO VISIT AGAIN..
